@@ -1,2 +1,6 @@
 # python-5
 #power and sqrt
+from math import sqrt,pow
+n=16
+print(sqrt(n))
+print(pow(2,3))
